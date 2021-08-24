@@ -14,3 +14,8 @@ We, Tech Warriors have a built the IPL Dashboard , UI based IPL Predictor and A 
 3. Predictor: http://159.122.179.157:30383/ui/#!/0?socketid=MhzVJW6rPY6gLCEIAAAP
 4. Demonstration Link: https://share.vidyard.com/watch/oqUT5TDDLvPAytYxdm9bqa?
 
+# Bibilography
+1. https://www.kaggle.com/nowke9/ipldata?select=matches.csv2.https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=stories-get-started-dashboards
+3. https://www.ibm.com/docs/
+4. https://youtube.com/smartintenz
+
